@@ -21,6 +21,7 @@ exports.extCategory = {
     'makefile': readHeader('# '),
     'dockerfile': readHeader('# '),
     'coffeescript': readHeader('# '),
+    'python': readHeader('# '),
     'yaml': readHeader('# '),
     'html': readHeader('<!--'),
     'jade': readHeader('<!--'),
