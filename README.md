@@ -3,6 +3,7 @@
 This extensions inserts an header in a new file or an existing file.
 
 ### Supported languages
+- Python
 - JavaScript
 - C++
 - C
@@ -28,7 +29,7 @@ This extensions inserts an header in a new file or an existing file.
 - XML
 
 ## Developer
-Nicolas Boulogne-Curriez
+Kaue Cano
 
 ## Release notes
 - Fixed header insertion. Header is now inserted at (0,0)
